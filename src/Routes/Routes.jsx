@@ -1,0 +1,35 @@
+import {
+  createBrowserRouter,
+} from "react-router-dom";
+import MainLayout from "../Layout/MainLayout";
+import Home from "../Pages/Home/Home";
+import Error from "../Pages/Error/Error";
+
+import OurPackages from "../Pages/OurPackages/OurPackages";
+import CoverageArea from "../Pages/CoverageArea/CoverageArea";
+import Support from "../Pages/Support/Support";
+import About from "../Pages/About/About";
+import BillPay from "../Pages/BillPay/BillPay";
+import CareerPage from "../Pages/CareerPage/CareerPage";
+import GetConnection from "../Pages/GetConnection/GetConnection";
+import FtpServer from "../Pages/FtpServer/FtpServer.jsx";
+
+export const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <MainLayout/>,
+     errorElement: <Error/>,
+        children: [
+      { path: "/", element: <Home/> },
+      { path: "/our-packages", element: <OurPackages/> },
+      { path: "/ftp-server", element: <FtpServer/> },
+{ path: "/coverage-area", element: <CoverageArea/> },
+{ path: "/support", element: <Support/> },
+{ path: "/about", element: <About/> },
+{ path: "/bill-pay", element: <BillPay/> },
+{ path: "/career", element: <CareerPage/> },
+{ path: "/get-new-connection", element: <GetConnection/> },
+    
+    ],
+  },
+]);

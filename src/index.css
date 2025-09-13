@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+
+body{
+    font-family: "Roboto Flex", sans-serif;
+}
+@keyframes marquee {
+  0% {
+    transform: translateX(100%); /* start fully right */
+  }
+  100% {
+    transform: translateX(-100%); /* move fully left */
+  }
+}
+
+.animate-marquee {
+  display: inline-flex;
+  animation: marquee 20s linear infinite;
+}
+
+
