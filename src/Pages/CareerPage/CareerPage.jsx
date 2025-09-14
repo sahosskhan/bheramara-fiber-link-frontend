@@ -3,23 +3,23 @@ import { Link } from "react-router-dom";
 
 const careers = [
   {
-    title: "Network Engineer",
-    location: "Dhaka, Bangladesh",
-    type: "Full-time",
+    title: "Network Support Engineer",
+    location: "Bhermara, Kushtia",
+    type: "Full-time-Onsite",
     description:
       "Responsible for maintaining and optimizing our network infrastructure. Must have knowledge of routers, switches, and internet protocols.",
   },
   {
-    title: "Customer Support Specialist",
-    location: "Remote",
-    type: "Full-time",
+    title: "Graphic Designer",
+    location: "Bhermara, Kushtia",
+    type: "Part-Time-Remote",
     description:
       "Provide assistance to our customers via chat, email, and phone. Excellent communication skills are a must.",
   },
   {
     title: "Marketing Executive",
-    location: "Chittagong, Bangladesh",
-    type: "Full-time",
+    location: "Bhermara, Kushtia",
+    type: "Contact-Based-Hybrid",
     description:
       "Plan and execute marketing campaigns, social media promotions, and customer engagement strategies.",
   },

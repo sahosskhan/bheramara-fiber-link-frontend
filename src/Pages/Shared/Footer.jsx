@@ -20,7 +20,7 @@ const Footer = () => {
             <Phone className="w-5 h-5" /> +880 1712-577194
           </p>
           <p className="flex items-center gap-2 text-gray-200 text-sm md:text-base">
-            <Mail className="w-5 h-5" /> yeaminsaiful@gmail.com
+            <Mail className="w-5 h-5" /> ssninternet9@gmail.com
           </p>
         </div>
 
@@ -31,7 +31,7 @@ const Footer = () => {
             { name: "Career", path: "/career" },
             { name: "Get New Connection", path: "/get-new-connection" },
             { name: "Test Your Network Speed", path: "http://www.speedtest.com.sg/" },
-                  { name: "BTRC Approved Tariff", path: "https://www.orbitbd.net/btrc-approved-tariff" },
+                  { name: "BTRC Approved Tariff", path: "https://docs.google.com/viewerng/viewer?url=https://mirnet.com.bd/wp-content/uploads/2022/10/BTRC-Tariff-Approval-Letter_BTS-communications-BD-Limited.pdf" },
           ].map((link) => (
             <Link
               key={link.name}

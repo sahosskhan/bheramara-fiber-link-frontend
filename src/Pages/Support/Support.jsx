@@ -14,38 +14,38 @@ const supportData = [
   {
     type: "Network Issue",
     icon: <Wifi size={32} />,
-    contact: { number: "+880 1712-577194", email: "yeaminsaiful@gmail.com" },
+    contact: { number: "+880 1712-577194", email: "ssninternet9@gmail.com" },
     color: "from-blue-400 to-blue-600",
   },
   {
     type: "Payment Issue",
     icon: <CreditCard size={32} />,
-    contact: { number: "+880 1712-577194", email: "yeaminsaiful@gmail.com" },
+    contact: { number: "+880 1712-577194", email: "ssninternet9@gmail.com" },
     color: "from-green-400 to-green-600",
   },
   
   {
     type: "Technical Support",
     icon: <Wrench size={32} />,
-    contact: { number: "+880 1712-577194", email: "yeaminsaiful@gmail.com" },
+    contact: { number: "+880 1712-577194", email: "ssninternet9@gmail.com" },
     color: "from-red-400 to-red-600",
   },
   {
     type: "Package Upgradation",
     icon: <ArrowUp size={32} />,
-    contact: { number: "+880 1712-577194", email: "yeaminsaiful@gmail.com" },
+    contact: { number: "+880 1712-577194", email: "ssninternet9@gmail.com" },
     color: "from-pink-400 to-pink-600",
   },
   {
     type: "Complaint",
     icon: <AlertTriangle size={32} />,
-    contact: { number: "+880 1712-577194", email: "yeaminsaiful@gmail.com" },
+    contact: { number: "+880 1712-577194", email: "ssninternet9@gmail.com" },
     color: "from-indigo-400 to-indigo-600",
   },
   {
     type: "Feedback/Suggestion",
     icon: <MessageCircle size={32} />,
-    contact: { number: "+880 1712-577194", email: "yeaminsaiful@gmail.com" },
+    contact: { number: "+880 1712-577194", email: "ssninternet9@gmail.com" },
     color: "from-yellow-400 to-yellow-600",
   },
 ];

@@ -8,7 +8,7 @@ const Home = () => {
     {
       name: "Lumen", 
       speed: "30 Mbps",
-       price: 525 ,
+       price: "৳525 / month",
      desc: `Stay connected all day with reliable speed for browsing, streaming, and social media. 
 Ideal for students, casual users, and small households who need smooth internet.`,
       ribbon: "Popular",

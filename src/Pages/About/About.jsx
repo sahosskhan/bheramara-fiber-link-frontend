@@ -10,11 +10,11 @@ const About = () => {
   ];
 
  const team = [ 
-  { name: "MD. Saiful Alam Khan", position: "CEO", number: "+880 1712-577194", email: "yeaminsaiful@gmail.com", image: "https://i.ibb.co.com/mFHrvH5W/image.png", }, 
-  { name: "K.M. Yeamin Saiful Khan", position: "CTO", number: "+880 1712-577194", email: "yeaminsaiful@gmail.com", image: "https://i.ibb.co.com/mFHrvH5W/image.png", }, 
-  { name: "KM Yeardin Saiful Khan", position: "CMO", number: "+880 1712-5771945", email: "yeaminsaiful@gmail.com", image: "https://i.ibb.co.com/c9JZvdK/image.png", }, 
+  { name: "MD. Saiful Alam Khan", position: "CEO", number: "+880 1712-577194", email: "ssninternet9@gmail.com", image: "https://i.ibb.co.com/mFHrvH5W/image.png", }, 
+  { name: "K.M. Yeamin Saiful Khan", position: "CTO", number: "+880 1712-577194", email: "ssninternet9@gmail.com", image: "https://i.ibb.co.com/mFHrvH5W/image.png", }, 
+  { name: "KM Yeardin Saiful Khan", position: "CMO", number: "+880 1712-5771945", email: "ssninternet9@gmail.com", image: "https://i.ibb.co.com/c9JZvdK/image.png", }, 
   { name: "MD. Sahoss Khan", position: "Web Developer", number: "+880 1778-030482", email: "sahosskhan359@gmail.com", image: "https://i.ibb.co.com/DPhL6jBf/image.png", }, 
-  { name: "MD. Alamin Islam", position: "Network Engineer", number: "+880 1778-030482", email: "yeaminsaiful@gmail.com", image: "https://i.ibb.co.com/TD9Mw3cf/image.png", }, ];
+  { name: "MD. Alamin Islam", position: "Network Engineer", number: "+880 1778-030482", email: "ssninternet9@gmail.com", image: "https://i.ibb.co.com/TD9Mw3cf/image.png", }, ];
 
   // Sequential Heading Animation
   const texts = ["Our Story", "Our Vision", "Our Mission"];
